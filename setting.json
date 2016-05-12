@@ -1,0 +1,3 @@
+{
+	"sinaApiUrl":"http://int.dpool.sina.com.cn/iplookup/iplookup.php?ip={0}&format=json"
+}
